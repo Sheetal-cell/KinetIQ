@@ -1,0 +1,10 @@
+{
+  "battery": 68,
+  "energy": 420,
+  "timestamp": "2025-07-21 08:30:00",
+  "voltageData": [
+    { "time": "08:00", "voltage": 3.2 },
+    { "time": "08:05", "voltage": 3.4 },
+    { "time": "08:10", "voltage": 3.6 }
+  ]
+}

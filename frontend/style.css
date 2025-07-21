@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(135deg, #051f1f, #013a2e);
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  margin: 0;
+  padding: 30px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+h1 {
+  color: #00ffae;
+  text-shadow: 0 0 8px #00ffae;
+}
+
+.card {
+  width: 300px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0,255,174,0.3);
+  background: rgba(0, 50, 40, 0.25);
+  border: 1px solid rgba(0,255,174,0.2);
+  text-align: center;
+  backdrop-filter: blur(8px);
+}
+
+.chart-box {
+  width: 90%;
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgba(0, 50, 40, 0.25);
+  box-shadow: 0 0 20px rgba(0,255,174,0.3);
+  border: 1px solid rgba(0,255,174,0.2);
+  backdrop-filter: blur(8px);
+}
